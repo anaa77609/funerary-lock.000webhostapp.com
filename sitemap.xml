@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://funerary-lock.000webhostapp.com">
+
+   <url>
+
+      <loc>https://funerary-lock.000webhostapp.com/index.html</loc>
+
+      <lastmod>2018-6-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+   <url>
+
+      <loc>https://funerary-lock.000webhostapp.com/karakteristike.html</loc>
+
+      <lastmod>2018-6-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.9</priority>
+
+   </url>
+   <url>
+
+      <loc>https://funerary-lock.000webhostapp.com/mojomiljenipas.html</loc>
+
+      <lastmod>2018-6-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.9</priority>
+
+   </url>
+   <url>
+
+      <loc>https://funerary-lock.000webhostapp.com/galerija.html</loc>
+
+      <lastmod>2018-6-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+       <priority>0.7/priority></priority>
+
+   </url>
+    <url>
+
+      <loc>https://funerary-lock.000webhostapp.com/zanimljivosti.html</loc>
+
+      <lastmod>2018-6-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+       <priority>0.4/priority></priority>
+
+   </url>
+   <url>
+
+      <loc>https://funerary-lock.000webhostapp.com/oautoru.html</loc>
+
+      <lastmod>2018-6-12</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.3</priority>
+
+   </url>
+ 
+      
+</urlset> 

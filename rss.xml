@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+
+<channel>
+	<title>Pocetna</title>
+	<description>Ovde su napisane uopstene stvari o Rotvajlerima</description>
+	<link>https://funerary-lock.000webhostapp.com/index.html</link>
+		<item>
+			<title>Karakteristike</title>
+			<description>Ovde mozete da procitate o osobinama Rotvajlera</description>
+			<link>https://funerary-lock.000webhostapp.com/karakteristike.html</link>
+		</item>
+</channel>
+<channel>
+	<title>Moj omiljeni pas</title>
+    <description>Ovde su napisani citati o psima</description>
+	<link>https://funerary-lock.000webhostapp.com/mojomiljenipas.html</link>
+		<item>
+			<title>Galerija</title>
+			<description>Ovde su fotografije Rotvajlera, prikazan njihov izgled</description>
+			<link>https://funerary-lock.000webhostapp.com/galerija.html</link>
+		</item>
+</channel>
+</rss>
